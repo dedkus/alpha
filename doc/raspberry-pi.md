@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - BigClown products (Bridge Module, sensors, actuators, ...)
-- Raspberry Pi 3
+- Raspberry Pi 2 or 3
 - Power adapter with USB Micro-B plug (power for Raspberry Pi)
 - USB cable type A to Micro-B (between Bridge Module and Raspberry Pi)
 - MicroSD card (at least 4GB) - [make sure the card is compatible](
